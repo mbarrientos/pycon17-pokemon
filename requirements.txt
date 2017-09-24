@@ -1,0 +1,7 @@
+pandas
+tensorflow
+keras
+numpy
+ipython
+pydot
+graphviz
